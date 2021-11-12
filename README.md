@@ -1,2 +1,2 @@
-# mini-projetos-java
-Mini projetos JAVA do professor Fernando Leonid.
+# mini-calculadoraIMC-java
+Mini calculadora IMC JAVA do professor Fernando Leonid.
