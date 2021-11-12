@@ -1,2 +1,2 @@
-# mini-calculadoraIMC-java
-Mini calculadora IMC JAVA do professor Fernando Leonid.
+# mini-calculadoraIMC-js
+Mini calculadora IMC js do professor Fernando Leonid.
